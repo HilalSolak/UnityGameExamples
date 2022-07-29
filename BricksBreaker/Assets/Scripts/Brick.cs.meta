@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 47cf329f6df1164448c8e6461db1e8ea
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - voiceEffectBrick: {fileID: 8300000, guid: 56b4ccb3eb1efa44994d7675567b023b, type: 3}
+  - voiceEffectCrash: {fileID: 8300000, guid: 6a5722644eb2af442bc48587ceaa9c0c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
