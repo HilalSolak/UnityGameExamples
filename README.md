@@ -1,3 +1,3 @@
 # UnityGameExamples
 unity game examples
-My Unity learnin process in my İntern NaraXR
+My Unity learning process in my İntern NaraXR
